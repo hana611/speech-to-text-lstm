@@ -205,3 +205,10 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# فایل‌های صوتی بزرگ
+*.wav
+
+# پوشه‌های پروژه شخصی IDE
+.vscode/
+.idea/
