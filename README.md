@@ -32,7 +32,7 @@ Install required libraries using pip:
 ```bash
 pip install numpy librosa tensorflow scikit-learn
 ```
-How to Run
+##How to Run
 
 1.Execute the main script:
 
@@ -51,7 +51,7 @@ Train the LSTM model with early stopping to prevent overfitting
 
 Evaluate the model on a test set
 
-Notes
+##Notes
 
 The data/ folder is ignored in GitHub to save storage space.
 
@@ -62,6 +62,6 @@ EarlyStopping callback is used to prevent overfitting during training.
 You can customize the number of epochs, batch size, and LSTM units inside finalproject.py.
 
 
-License
+##License
 
 This project is licensed under the MIT License.
