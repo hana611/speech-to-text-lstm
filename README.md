@@ -32,7 +32,7 @@ Install required libraries using pip:
 ```bash
 pip install numpy librosa tensorflow scikit-learn
 ```
-##How to Run
+## How to Run
 
 1.Execute the main script:
 
